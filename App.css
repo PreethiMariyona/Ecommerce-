@@ -1,0 +1,498 @@
+
+/*.main{
+   background-color: #1ac6ff;
+  display: flex ;
+   width: 100%;
+   height:100vh;
+}
+
+.container{
+   width: 200px;
+   height: 150px;
+   background-color: red;
+   margin-top: 100px;
+   display: flex;
+}*/
+
+
+
+             
+      
+            
+/*main {
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #e1e3eb;
+  }
+  .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 60px; 
+    background-color: white;
+  }
+  .imgs {
+      padding-top: 20px;
+      justify-content: center;
+      display: flex;
+    }
+  .container-image {
+    background-color: rgb(223, 221, 221); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+  }
+  .profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+  } 
+
+  input{
+      width: 300px;
+      height: 50px;
+      border-radius: 60px;
+      box-shadow: inset 0px 0px 25px 0px #888;
+      border: none;
+      outline: none;
+      background-color: #fff;
+  }
+
+  .email{
+      height: 25px;
+      width: 25px;
+      position: absolute;
+      padding: 14px 0 0 25px;
+  }
+
+  .name{
+      padding-left: 70px;
+      font-size: 20px;
+  }
+  .second-input{
+      padding-top: 20px;
+  }
+
+  button{
+      width: 380px;
+      height: 50px;
+      border-radius: 60px;
+      background-color: #b103fc;
+      color: white;
+      font-size: 25px;
+      border: none;
+  }
+  .login-button{
+      padding-top: 25px;
+  }
+
+  .link{
+      font-size: 25px;
+      font-weight: 400;
+  }
+   a{
+       color: blue;
+   }*/
+
+
+   /*.login-page {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .justin {
+      max-width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-color:blue;
+    }
+    
+    .justin h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .preethi{
+      margin-bottom: 15px;
+    }
+    
+    .preethi label {
+      display: block;
+      font-weight: bold;
+    }
+    
+    .preethi input {
+      width: 90%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    
+    button[type="submit"] {
+      width: 95%;
+      padding: 8px;
+      background-color: #4caf50;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    button[type="submit"]:hover {
+      background-color: #45a049;
+    }*/
+
+
+
+   /* .login-page {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .login-form {
+      max-width: 300px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-color: #fff;
+    }
+    
+    .login-form h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .form-group group {
+      margin-bottom: 15px;
+    }
+    
+    .form-group label {
+      display: block;
+      font-weight: bold;
+    }
+    
+    .form-group input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    
+    button[type="submit"] {
+      width: 100%;
+      padding: 8px;
+      background-color: #4caf50;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    button[type="submit"]:hover {
+      background-color: #45a049;
+    }*/
+
+
+
+    /*.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .justin {
+      max-width: 400px;
+      
+      padding: 20px;
+      background-color: blue;
+    }
+    
+    .justin h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+     .preethi {
+      margin-bottom: 15px;
+    }
+    
+    .preethi label {
+      display: block;
+      
+      
+    }
+    
+    .preethi input {
+      width: 90%;
+      padding: 8px;
+    }
+    
+    button {
+      width: 100%;
+      padding: 8px;
+      background-color:green;
+    }
+    
+    button:hover {
+      background-color:pink;
+    }
+
+    .box{
+      width:300px;
+      height:400px;
+      margin-top: 100px;
+      margin-left: 200px;
+
+    }
+
+    .content{
+      padding: 20px;
+    }*/
+    /* Table.css */
+/*.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+   /* .row{
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 0px;
+}
+
+    
+    .preethi{
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    }
+    .kumar{
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      height: 10vh;
+      border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+    .col{
+      margin-right: 40px;
+      align-items: center;
+      height: 10vh;
+      border-collapse: collapse;
+
+  width: 100%;
+   border: 1px solid #ddd;
+  padding: 8px;
+  color: blue;
+}*/
+/* App.css */
+
+
+
+/*main {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  size: 100px;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+label {
+  flex-grow: 1;
+}
+
+.FaTrashAlt {
+  color: #f44336;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.FaTrashAlt:focus {
+  outline: none;
+}*/
+
+
+
+
+/* App.css */
+/* main {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+label {
+  flex-grow: 1;
+  font-size: 16px;
+  color: #333;
+}
+
+.FaTrashAlt {
+  color: #f44336;
+  font-size: 16px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.FaTrashAlt:hover {
+  color: #ff0000;
+}
+
+.FaTrashAlt:focus {
+  outline: none;
+}
+ */
+
+
+
+ body{
+  background-color: indigo;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+h2{
+  text-align: center;
+}
+.SignUp-form{
+  max-width: 450px;
+  border-radius: 20px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.8);
+  box-sizing: border-box;
+  padding: 40px;
+  color: white;
+  margin-top: 100px;
+}
+input[type=text],input[type=password]{
+  width: 300px;
+  margin: 5px;
+  box-sizing: border-box;
+  padding: 12px 10px;
+  background-color: rgba(0,0,0,0.10);
+  outline: none;
+  border: none;
+  border-bottom: 1px solid grey;
+  color: rgb(248,243,243);
+  border-radius: 5px;
+  margin: 5px;
+  font-weight: bold;
+}
+input[type=submit]{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 0;
+  margin-top: 30px;
+  outline: none;
+  background-color: blue;
+  opacity: 0.3;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  transition: 1;
+}
+input[type=submit]:hover{
+  opacity: 1;
+}
+
+span{
+  color: red;
+  font-size: 14px;
+}
